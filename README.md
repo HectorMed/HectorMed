@@ -9,6 +9,7 @@ siempre estoy leyendo, practicando o experimentando algo relacionado a la progra
 Disfruto entender cómo funcionan las cosas internamente, resolver problemas y encontrar maneras de mejorar lo que ya existe.
 Gran parte de mi inspiración viene de los videojuegos que marcaron mi infancia, especialmente Pokémon y The Legend of Zelda.
 
+Creo en una tecnología sin barreras: accesible para todos, no solo para quienes pueden pagarla. Porque innovar no debería depender del tamaño de una empresa, sino de las posibilidades que podemos crear. Me gusta pensar que el software no solo debe resolver problemas, sino también abrir oportunidades y acercar herramientas a quienes normalmente no tienen acceso a ellas.
 
 ## Stack tecnológico
 
